@@ -1,10 +1,5 @@
 # 👋 Welcome to My GitHub Profile
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cuniix&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cuniix&layout=compact&card_width=350&langs_count=6&theme=dracula&hide_border=false" height="165" />
-</div>
-
 ---
 
 ## ✨ About Me
@@ -66,13 +61,7 @@ I aim for **clean code**, **modern UI**, and **high‑performance applications**
 ### 🎵 Spotify Now Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" height="130" />
-</div>
-
-### 🐍 Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cuniix/Cuniix/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Cuniix&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" height="130" />
 </div>
 
 *(If you want I can generate these files for you automatically.)*
