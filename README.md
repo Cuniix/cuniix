@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Cuniix and I'm from Germany</h2>
 
 ###
 
